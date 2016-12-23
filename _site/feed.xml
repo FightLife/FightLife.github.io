@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>遇见</title>
+    <description>人生若只如初见</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 23 Dec 2016 17:52:46 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Dec 2016 17:52:46 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Test Blog</title>
+        <description>&lt;h1 id=&quot;测试标题&quot;&gt;测试标题&lt;/h1&gt;
+&lt;p&gt;测试图片
+&lt;img src=&quot;http://macdown.uranusjr.com/static/base/img/logo-160.png&quot; alt=&quot;MacDown logo&quot; /&gt;
+Hello there! I am &lt;strong&gt;long&lt;/strong&gt;,this is my first Blog on &lt;strong&gt;Github&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;二级标题&quot;&gt;二级标题&lt;/h2&gt;
+</description>
+        <pubDate>Fri, 23 Dec 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/12/23/test-2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/23/test-2016/</guid>
+        
+        <category>娱乐</category>
+        
+        <category>测试</category>
+        
+        <category>啦啦</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
